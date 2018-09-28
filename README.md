@@ -12,7 +12,7 @@ The logger is quite simple, you choose one of the few currently available option
 	The available severity types are "Trace","Information","Debug","Warning","Error".
 
 ## API
-The API calls are simple and can all be found in API.cpp
+The API calls are simple and can all be found in API.cpp. You can also download [LoggerAPI.gml](LoggerAPI.gml) and import into GMS if you want to
 
 ## Compiling
 Library can be compiled using VisualStudio 2017(2015 might work too)
